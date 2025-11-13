@@ -8,8 +8,8 @@
         "text": "Michele Ciletti"
     },
     "text": {
-        "more": "A graph visualization of academics on Mastodon, grouped by discipline.",
-        "intro": "A graph visualization of academics on Mastodon, grouped by discipline.",
+        "more": "A graph visualization of academics on Mastodon, grouped by discipline and linked by following relationships.",
+        "intro": "A graph visualization of academics on Mastodon, grouped by discipline and linked by following relationships.",
         "title": "Academics on Mastodon"
     },
     "legend": {

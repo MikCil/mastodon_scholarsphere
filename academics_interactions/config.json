@@ -13,7 +13,7 @@
     "title": "Academic Disciplines on Mastodon - Interactions"
   },
   "legend": {
-    "edgeLabel": "    Interactions (likes, reblogs and replies)",
+    "edgeLabel": "Interactions (likes, reblogs and replies)",
     "colorLabel": "Disciplines",
     "nodeLabel": "Academics on Mastodon"
   },
