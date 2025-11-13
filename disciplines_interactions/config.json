@@ -8,14 +8,14 @@
     "text": "Michele Ciletti"
   },
   "text": {
-    "more": "A graph visualization of academic disciplines on Mastodon, linked by user interactions.",
-    "intro": "A graph visualization of academic disciplines on Mastodon, linked by user interactions.",
+    "more": "A graph visualization ofA graph visualization of academic disciplines on Mastodon, linked by interactions ((likes, reblogs and replies).",
+    "intro": "A graph visualization ofA graph visualization of academic disciplines on Mastodon, linked by interactions ((likes, reblogs and replies).",
     "title": "Academic Disciplines on Mastodon - Interactions"
   },
   "legend": {
-    "edgeLabel": "Interactions",
+    "edgeLabel": "    Interactions (likes, reblogs and replies)",
     "colorLabel": "Eigenvector Centrality",
-    "nodeLabel": "Academic disciplines on Mastodon - Interactions"
+    "nodeLabel": "Disciplines"
   },
   "features": {
     "search": true,
