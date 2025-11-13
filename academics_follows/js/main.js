@@ -115,7 +115,7 @@ function addDisciplineLegend() {
         closeButton.textContent = '×';
         closeButton.style.position = 'absolute';
         closeButton.style.top = '5px';
-        closeButton.style.right = '10px';
+        closeButton.style.left = '10px';
         closeButton.style.cursor = 'pointer';
         closeButton.style.fontSize = '20px';
         closeButton.style.fontWeight = 'bold';
