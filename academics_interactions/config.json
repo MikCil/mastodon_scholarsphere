@@ -8,9 +8,9 @@
     "text": "Michele Ciletti"
   },
   "text": {
-    "more": "A graph visualization of the characters in Haruki Murakami\u0027s The Wind-Up Bird Chronicle. Each character is a node, and two characters appearing in the same chapter are linked by an edge. Nodes and edges are weighted by the number of their occurrences.",
-    "intro": "A graph visualization of academics on Mastodon, grouped by discipline.",
-    "title": "Academics on Mastodon"
+    "more": "A graph visualization of academics on Mastodon, grouped by discipline and linked by interactions (likes, reblogs and replies).",
+    "intro": "A graph visualization of academics on Mastodon, grouped by discipline and linked by interactions (likes, reblogs and replies).",
+    "title": "Academic Disciplines on Mastodon - Interactions"
   },
   "legend": {
     "edgeLabel": "    Interactions (likes, reblogs and replies)",
