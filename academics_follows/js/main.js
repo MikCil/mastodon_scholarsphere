@@ -126,7 +126,7 @@ function addDisciplineLegend() {
         Object.assign(legendContainer.style, {
             position: 'absolute',
             top: '60px',
-            left: '20px', // Changed from right to left to avoid info panel overlap
+            right: '20px', // Changed from right to left to avoid info panel overlap
             backgroundColor: 'white',
             padding: '10px',
             border: '1px solid #ccc',
