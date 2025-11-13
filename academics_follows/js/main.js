@@ -370,8 +370,8 @@ function setupGUI(config) {
         legendToggle.id = 'legend-toggle';
         legendToggle.textContent = 'Show Discipline Legend';
         legendToggle.style.position = 'fixed';
-        legendToggle.style.bottom = '20px';
-        legendToggle.style.left = '20px';
+        legendToggle.style.bottom = '40px';
+        legendToggle.style.right = '20px';
         legendToggle.style.padding = '8px 12px';
         legendToggle.style.backgroundColor = '#f5f5f5';
         legendToggle.style.border = '1px solid #ccc';
