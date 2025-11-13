@@ -19,7 +19,7 @@ The project currently includes the following network visualizations, accessible 
 4.  **Interaction Network (Disciplines):** *(Work in Progress - Link Currently Disabled)* An aggregated network intended to show interaction patterns *between* disciplines. This is also under development.
 5.  **Hashtag Co-occurrence Network:** A network where nodes represent hashtags frequently used by academics in the dataset. Edges connect hashtags that appear together in the same posts, indicating thematic proximity or discussion clusters.
 
-✨ **Explore the visualizations here:** [https://mikcil.github.io/mastodon_scholarsphere/](https://mikcil.github.io/mastodon_scholarsphere/) ✨ 
+**Explore the visualizations here:** [https://mikcil.github.io/mastodon_scholarsphere/](https://mikcil.github.io/mastodon_scholarsphere/)
 
 ## Data Source and Limitations
 
