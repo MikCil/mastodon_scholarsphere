@@ -15,8 +15,8 @@ The project currently includes the following network visualizations, accessible 
 
 1.  **Following Relationships (Academics):** A network graph showing direct following ties between individual academics identified from voluntary lists. Nodes represent academics, and edges represent a follow relationship.
 2.  **Following Relationships (Disciplines):** An aggregated network where nodes represent academic disciplines (based on self-identification). Edges are weighted by the number of following relationships *between* academics belonging to those disciplines.
-3.  **Interaction Network (Academics):** *(Work in Progress - Link Currently Disabled)* A network intended to show interactions (e.g., replies, boosts, favorites) between individual academics. Data collection and analysis for this network are ongoing.
-4.  **Interaction Network (Disciplines):** *(Work in Progress - Link Currently Disabled)* An aggregated network intended to show interaction patterns *between* disciplines. This is also under development.
+3.  **Interaction Network (Academics):** A network intended to show interactions (e.g., replies, boosts, favorites) between individual academics. Data collection and analysis for this network are ongoing.
+4.  **Interaction Network (Disciplines):** An aggregated network intended to show interaction patterns *between* disciplines. This is also under development.
 5.  **Hashtag Co-occurrence Network:** A network where nodes represent hashtags frequently used by academics in the dataset. Edges connect hashtags that appear together in the same posts, indicating thematic proximity or discussion clusters.
 
 **Explore the visualizations here:** [https://mikcil.github.io/mastodon_scholarsphere/](https://mikcil.github.io/mastodon_scholarsphere/)
